@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["CONNECTION_CHANNEL_SIZE",""]],"fn":[["get_k8s_resource_api",""],["wrap_raw_connection","Creates the task that handles the messaging between layer/agent. It does the encoding/decoding of protocol."]],"mod":[["container",""],["kubernetes",""],["runtime",""]],"struct":[["Connection",""]],"trait":[["AgentManagment",""]]};
